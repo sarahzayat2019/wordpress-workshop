@@ -18,8 +18,10 @@ other core files
 so inorder to get your wordpress theme working, do a fresh installation of wordpress and replace the wp-content folder. 
 <br />
 This theme contains acf, to get it running import the acf json file after making your wordpress project work on your local machine.
-go to plugins, make sure =all plugins are activated
 <br />
-go to Custom Fields-> tools
 <br />
-Import the file in the repo acf-export-2022-02-21.json
+-go to plugins, Make sure all plugins are activated
+<br />
+-go to Custom Fields-> tools
+<br />
+-Import the file in the repo acf-export-2022-02-21.json
